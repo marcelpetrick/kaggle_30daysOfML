@@ -153,7 +153,34 @@ Most machine learning libraries (including scikit-learn) give an error if you tr
 A categorical variable is a variable that takes only a limited number of values, and it's common to encounter them in data. Learn how to work with them in Lesson 3 (Categorical Variables).
 
 ## day 13
-[coming]
 
-# legend:
-[open]
+📋 Today's Assignment
+
+    Read this tutorial (from Lesson 4 of the Intermediate ML course)
+    Complete this exercise (from Lesson 4 of the Intermediate ML course)
+    Read this tutorial (from Lesson 5 of the Intermediate ML course)
+    Complete this exercise (from Lesson 5 of the Intermediate ML course)
+
+💡 What You'll Learn
+
+In Lesson 4 (Pipelines), you'll learn a simple way to keep your data preprocessing and modeling code organized.
+
+You're already a bit familiar with model validation from the Intro to Machine Learning course. In Lesson 5 (Cross-Validation), you'll explore a more advanced validation technique that gives a better measure of model performance.
+
+## day 14
+
+📋 Today's Assignment
+
+    Read this tutorial (from Lesson 6 of the Intermediate ML course)
+    Complete this exercise (from Lesson 6 of the Intermediate ML course)
+    Read this tutorial (from Lesson 7 of the Intermediate ML course)
+    Complete this exercise (from Lesson 7 of the Intermediate ML course)
+
+💡 What You'll Learn
+
+In Lesson 6 (XGBoost), you will learn how to build and optimize models with gradient boosting. This method dominates many Kaggle competitions and achieves state-of-the-art results on a variety of datasets.
+
+In Lesson 7 (Data Leakage), you will learn what data leakage is and how to prevent it. If you don't know how to prevent it, leakage will come up frequently, and it will ruin your models in subtle and dangerous ways. So, this is one of the most important concepts for practicing data scientists.
+
+## day 15
+[coming]
